@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<version>1.0.0</version>
+	<version>0.8.0</version>
 	<TIPS>
 		You can specify no more than 35 mods
 		GitGud loads about 1 mod/second, so try to mix mods order in modlist to make the launcher load faster.
@@ -9,7 +9,7 @@
 		Do not change anything except modlist for stable work.
 		I cannot guarantee reliability when working with other mods, but in theory everything would work as it should.
 		RimworldHugsLib and ModManager problems
-		
+
 		INSTALLED GIT MAKES DOWNLOAD MUCH FASTER!!! INSTALL AND TURN IT ON (from False to True in this file in gitcheck)
 	</TIPS>
 	<modlist>
@@ -38,14 +38,17 @@
 		https://gitgud.io/c0ffeeeeeeee/coffees-rjw-ideology-addons
 		https://gitgud.io/HiveBro/nephila-rjw
 	</modlist>
-	<git>https://github.com/SovietSoda</git>
+	<git>https://github.com/NeonedOne/Launcher</git>
 	<telegram>https://t.me/RimWorld_Launcher</telegram>
 	<loverslab>https://www.loverslab.com/forum/322-rimworld/</loverslab>
 	<discord>https://discord.com/invite/CXwHhv8</discord>
 
-	<gitcheck>False</gitcheck>
+	<gitcheck>True</gitcheck>
+
+	<launcher_actual_Manifest_link>
+		https://raw.githubusercontent.com/NeonedOne/Launcher/main/Launcher_Data/Manifest.xml
+	</launcher_actual_Manifest_link>
 
 	<description>
-	
 	</description>
 </ModMetaData>
